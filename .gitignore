@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Data (MNIST + custom drawings)
+data/
+
+# Model weights
+python/weights/
+
+# OS files
+.DS_Store
+Thumbs.db
