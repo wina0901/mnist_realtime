@@ -1,10 +1,10 @@
 # MNIST Realtime — 손글씨 숫자 실시간 인식
-
-> 브라우저 캔버스에 숫자를 그리면 필기 도중 실시간으로 예측 결과와 확률 분포를 보여주는 딥러닝 데모 시스템
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
+> 브라우저 캔버스에 숫자를 그리면 필기 도중 실시간으로 예측 결과와 확률 분포를 보여주는 딥러닝 데모 시스템
+> 
+<img src="/demo.gif" width="700"/>
 
 ---
 
